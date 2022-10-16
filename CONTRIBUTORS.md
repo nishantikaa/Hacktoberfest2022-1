@@ -33,7 +33,7 @@
 | <img width="120px" src="https://github.com/theadityaagnihotri.png" alt="profile-picture"> | Aditya Agnihotri |
 | <img width="120px" src="https://github.com/arunb-lab.png" alt="profile-picture"> | Bhuwan Baral |
 | <img width="120px" src="https://github.com/AmitBarman99.png" alt="profile-picture"> | Amit Barman | Sophomore at IIEST shibpur | India | [Github link](https://github.com/AmitBarman99) |
-
+| <img width="120px" src="https://github.com/nishantikaa.png" alt="profile-picture"> | Nishantika Choudhury |
 
 
 
